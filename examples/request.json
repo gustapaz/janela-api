@@ -1,0 +1,18 @@
+{
+  "start": 540,
+  "end": 720,
+  "duration": 30,
+  "step": 15,
+  "buffer": 0,
+  "participants": [
+    {
+      "id": "ana",
+      "busy": [
+        {
+          "start": 600,
+          "end": 630
+        }
+      ]
+    }
+  ]
+}
